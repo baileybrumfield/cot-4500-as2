@@ -71,7 +71,7 @@ def newtons_meth_and_est():
 
 # Question 4 Function: Using the divided difference method, print out the Hermite polynomial approximation matrix 
 
-def function_name_here():
+def hermite_poly_approx():
 
     # problem statement values
     a1 = 3.6
@@ -179,7 +179,7 @@ if __name__ == "__main__":
 
     # Print Question 4
 
-    function_name_here()
+    hermite_poly_approx()
 
 
     # Print Question 5
