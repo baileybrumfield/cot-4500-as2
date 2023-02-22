@@ -8,7 +8,8 @@ This assignment's purpose is to apply chapter 3 and 4 concepts taught in class, 
 As stated in requirements.txt, NumPy and SciPy must be installed for this program to run.
 
 ### How to install required packages
-NumPy: type "pip install numpy" into terminal and press enter  
+NumPy: type "pip install numpy" into terminal and press enter 
+
 SciPy: type "pip install scipy" into terminal and press enter
 ### How to run from command line
 copy the path to the assignment_2.py file
